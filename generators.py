@@ -1,5 +1,5 @@
-from dsl import *
-from utils import *
+from src.dsl import *
+from src.re_arc.utils import *
 
 
 
